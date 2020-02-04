@@ -1,5 +1,5 @@
 {
-  "name": "ElasticExportRakutenDE",
+  "name": "MyElasticExportRakutenDE",
   "namespace": "ElasticExportRakutenDE",
   "type": "export",
   "serviceProvider": "ElasticExportRakutenDE\\ElasticExportRakutenDEServiceProvider",
@@ -13,7 +13,7 @@
     "en": "Item export to the online market Rakuten.de via the elastic export."
   },
   "categories": ["3881"],
-  "author": "plentysystems AG",
+  "author": "lichesser",
   "authorIcon": "icon_author_xs.png",
   "marketplaceName": {
     "de":"Rakuten.de",
